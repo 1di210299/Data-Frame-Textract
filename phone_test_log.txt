@@ -1,0 +1,365 @@
+=== LOG DE PRUEBA DE EXTRACCIÓN DE TELÉFONOS ===
+Fecha y hora: 2024-11-17 11:08:16
+Archivo procesado: /home/juandi/Documents/Textract/textract_results/doc_AM_01_06_24 Emergency Contacts and Insurance Report_page_1.png.json
+
+Bounding boxes encontrados: 211
+
+Header encontrado:
+Texto: Emergency Contacts and Insurance Report
+Posición: left=0.05007205903530121, top=0.03995155915617943
+
+Header encontrado:
+Texto: Emergency Contact
+Posición: left=0.3590872883796692, top=0.1656254082918167
+
+Header encontrado:
+Texto: Emergency Contact
+Posición: left=0.49480655789375305, top=0.16520625352859497
+
+Header encontrado:
+Texto: Phone #s
+Posición: left=0.5258170962333679, top=0.17689624428749084
+
+Header encontrado:
+Texto: (Company, Contact Policy #)
+Posición: left=0.6927468180656433, top=0.1767457276582718
+
+Teléfono encontrado:
+Texto: 8285753779
+Score: 1
+Posición: left=0.5216663479804993, top=0.20965619385242462
+
+Teléfono encontrado:
+Texto: (269) 290-4959
+Score: 1
+Posición: left=0.05317174643278122, top=0.22144655883312225
+
+Teléfono encontrado:
+Texto: 8285753775
+Score: 1
+Posición: left=0.5217148065567017, top=0.22085095942020416
+
+Teléfono encontrado:
+Texto: 8285753779
+Score: 1
+Posición: left=0.5216831564903259, top=0.26995813846588135
+
+Teléfono encontrado:
+Texto: (269) 993-0872
+Score: 1
+Posición: left=0.05333765968680382, top=0.2763160765171051
+
+Teléfono encontrado:
+Texto: 8285753779
+Score: 1
+Posición: left=0.5216283798217773, top=0.32480257749557495
+
+Teléfono encontrado:
+Texto: (269) 548-9004
+Score: 1
+Posición: left=0.0532146692276001, top=0.33110925555229187
+
+Teléfono encontrado:
+Texto: 401-965-5857
+Score: 1
+Posición: left=0.5171669721603394, top=0.379757821559906
+
+Teléfono encontrado:
+Texto: (401) 527-4896
+Score: 1
+Posición: left=0.05329931899905205, top=0.38596561551094055
+
+Teléfono encontrado:
+Texto: 503-825-2469
+Score: 1
+Posición: left=0.5176889896392822, top=0.43457719683647156
+
+Teléfono encontrado:
+Texto: (408) 893-5247
+Score: 1
+Posición: left=0.05326204001903534, top=0.44081512093544006
+
+Teléfono encontrado:
+Texto: 603-328-1361
+Score: 1
+Posición: left=0.6948388814926147, top=0.45137453079223633
+
+Teléfono encontrado:
+Texto: 3108097736
+Score: 1
+Posición: left=0.521759569644928, top=0.4892537593841553
+
+Teléfono encontrado:
+Texto: (818) 703-2829
+Score: 1
+Posición: left=0.05322704091668129, top=0.49566906690597534
+
+Teléfono encontrado:
+Texto: 1--858-735-4947
+Score: 1
+Posición: left=0.5102769136428833, top=0.5328353643417358
+
+Teléfono encontrado:
+Texto: (858) 775-4947
+Score: 1
+Posición: left=0.0533207543194294, top=0.5448560118675232
+
+Teléfono encontrado:
+Texto: 1-858-735-4947
+Score: 1
+Posición: left=0.5123823881149292, top=0.5440319180488586
+
+Teléfono encontrado:
+Texto: 866-400-6090
+Score: 1
+Posición: left=0.694548487663269, top=0.5499987602233887
+
+Teléfono encontrado:
+Texto: 720-810-0089
+Score: 1
+Posición: left=0.5174965262413025, top=0.5877043008804321
+
+Teléfono encontrado:
+Texto: (510) 501-2368
+Score: 1
+Posición: left=0.05322562903165817, top=0.5940859317779541
+
+Teléfono encontrado:
+Texto: 5704392140
+Score: 1
+Posición: left=0.5217363834381104, top=0.6370887756347656
+
+Teléfono encontrado:
+Texto: (503) 407-6845
+Score: 1
+Posición: left=0.05338290333747864, top=0.643104612827301
+
+Teléfono encontrado:
+Texto: 18008888288
+Score: 1
+Posición: left=0.6957329511642456, top=0.6481866240501404
+
+Teléfono encontrado:
+Texto: 5704390880
+Score: 1
+Posición: left=0.5217564702033997, top=0.6863353848457336
+
+Teléfono encontrado:
+Texto: (570) 439-2140
+Score: 1
+Posición: left=0.053242020308971405, top=0.6925269365310669
+
+Teléfono encontrado:
+Texto: 8883195999
+Score: 1
+Posición: left=0.6989949345588684, top=0.7032383680343628
+
+Teléfono encontrado:
+Texto: 805 259 5099
+Score: 1
+Posición: left=0.5209908485412598, top=0.7357017993927002
+
+Teléfono encontrado:
+Texto: (805) 689-2849
+Score: 1
+Posición: left=0.05323972553014755, top=0.7474614381790161
+
+Teléfono encontrado:
+Texto: 805 280 1415
+Score: 1
+Posición: left=0.5181440114974976, top=0.7468032836914062
+
+Teléfono encontrado:
+Texto: (805) 886-7388
+Score: 1
+Posición: left=0.053197748959064484, top=0.802399218082428
+
+Teléfono encontrado:
+Texto: 8052801415
+Score: 1
+Posición: left=0.5217968225479126, top=0.8017295002937317
+
+Teléfono encontrado:
+Texto: 5034326885
+Score: 1
+Posición: left=0.5218235850334167, top=0.8508987426757812
+
+Teléfono encontrado:
+Texto: (971) 804-5906
+Score: 1
+Posición: left=0.05319265276193619, top=0.8571562170982361
+
+Generando características...
+
+=== RESULTADOS ===
+Total de teléfonos procesados: 165
+Teléfonos identificados como válidos: 165
+
+Teléfonos válidos encontrados:
+- 8285753779 (confianza: 1.00)
+- (269) 290-4959 (confianza: 1.00)
+- 8285753775 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 993-0872 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 548-9004 (confianza: 1.00)
+- 401-965-5857 (confianza: 1.00)
+- (401) 527-4896 (confianza: 1.00)
+- 503-825-2469 (confianza: 1.00)
+- (408) 893-5247 (confianza: 1.00)
+- 603-328-1361 (confianza: 1.00)
+- 3108097736 (confianza: 1.00)
+- (818) 703-2829 (confianza: 1.00)
+- 1--858-735-4947 (confianza: 0.99)
+- (858) 775-4947 (confianza: 1.00)
+- 1-858-735-4947 (confianza: 1.00)
+- 866-400-6090 (confianza: 1.00)
+- 720-810-0089 (confianza: 1.00)
+- (510) 501-2368 (confianza: 1.00)
+- 5704392140 (confianza: 1.00)
+- (503) 407-6845 (confianza: 1.00)
+- 18008888288 (confianza: 1.00)
+- 5704390880 (confianza: 1.00)
+- (570) 439-2140 (confianza: 1.00)
+- 8883195999 (confianza: 1.00)
+- 805 259 5099 (confianza: 0.99)
+- (805) 689-2849 (confianza: 1.00)
+- 805 280 1415 (confianza: 1.00)
+- (805) 886-7388 (confianza: 1.00)
+- 8052801415 (confianza: 1.00)
+- 5034326885 (confianza: 1.00)
+- (971) 804-5906 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 290-4959 (confianza: 1.00)
+- 8285753775 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 993-0872 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 548-9004 (confianza: 1.00)
+- 401-965-5857 (confianza: 1.00)
+- (401) 527-4896 (confianza: 1.00)
+- 503-825-2469 (confianza: 1.00)
+- (408) 893-5247 (confianza: 1.00)
+- 603-328-1361 (confianza: 1.00)
+- 3108097736 (confianza: 1.00)
+- (818) 703-2829 (confianza: 1.00)
+- 1--858-735-4947 (confianza: 1.00)
+- (858) 775-4947 (confianza: 1.00)
+- 1-858-735-4947 (confianza: 1.00)
+- 866-400-6090 (confianza: 1.00)
+- 720-810-0089 (confianza: 1.00)
+- (510) 501-2368 (confianza: 1.00)
+- 5704392140 (confianza: 1.00)
+- (503) 407-6845 (confianza: 1.00)
+- 18008888288 (confianza: 1.00)
+- 5704390880 (confianza: 1.00)
+- (570) 439-2140 (confianza: 1.00)
+- 8883195999 (confianza: 1.00)
+- 805 259 5099 (confianza: 1.00)
+- (805) 689-2849 (confianza: 1.00)
+- 805 280 1415 (confianza: 1.00)
+- (805) 886-7388 (confianza: 1.00)
+- 8052801415 (confianza: 1.00)
+- 5034326885 (confianza: 1.00)
+- (971) 804-5906 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 290-4959 (confianza: 1.00)
+- 8285753775 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 993-0872 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 548-9004 (confianza: 1.00)
+- 401-965-5857 (confianza: 1.00)
+- (401) 527-4896 (confianza: 1.00)
+- 503-825-2469 (confianza: 1.00)
+- (408) 893-5247 (confianza: 1.00)
+- 603-328-1361 (confianza: 1.00)
+- 3108097736 (confianza: 1.00)
+- (818) 703-2829 (confianza: 1.00)
+- 1--858-735-4947 (confianza: 1.00)
+- (858) 775-4947 (confianza: 1.00)
+- 1-858-735-4947 (confianza: 1.00)
+- 866-400-6090 (confianza: 1.00)
+- 720-810-0089 (confianza: 1.00)
+- (510) 501-2368 (confianza: 1.00)
+- 5704392140 (confianza: 1.00)
+- (503) 407-6845 (confianza: 1.00)
+- 18008888288 (confianza: 1.00)
+- 5704390880 (confianza: 1.00)
+- (570) 439-2140 (confianza: 1.00)
+- 8883195999 (confianza: 1.00)
+- 805 259 5099 (confianza: 1.00)
+- (805) 689-2849 (confianza: 1.00)
+- 805 280 1415 (confianza: 1.00)
+- (805) 886-7388 (confianza: 1.00)
+- 8052801415 (confianza: 1.00)
+- 5034326885 (confianza: 1.00)
+- (971) 804-5906 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 290-4959 (confianza: 1.00)
+- 8285753775 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 993-0872 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 548-9004 (confianza: 1.00)
+- 401-965-5857 (confianza: 1.00)
+- (401) 527-4896 (confianza: 1.00)
+- 503-825-2469 (confianza: 1.00)
+- (408) 893-5247 (confianza: 1.00)
+- 603-328-1361 (confianza: 1.00)
+- 3108097736 (confianza: 1.00)
+- (818) 703-2829 (confianza: 1.00)
+- 1--858-735-4947 (confianza: 1.00)
+- (858) 775-4947 (confianza: 1.00)
+- 1-858-735-4947 (confianza: 1.00)
+- 866-400-6090 (confianza: 1.00)
+- 720-810-0089 (confianza: 1.00)
+- (510) 501-2368 (confianza: 1.00)
+- 5704392140 (confianza: 1.00)
+- (503) 407-6845 (confianza: 1.00)
+- 18008888288 (confianza: 1.00)
+- 5704390880 (confianza: 1.00)
+- (570) 439-2140 (confianza: 1.00)
+- 8883195999 (confianza: 1.00)
+- 805 259 5099 (confianza: 1.00)
+- (805) 689-2849 (confianza: 1.00)
+- 805 280 1415 (confianza: 1.00)
+- (805) 886-7388 (confianza: 1.00)
+- 8052801415 (confianza: 1.00)
+- 5034326885 (confianza: 1.00)
+- (971) 804-5906 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 290-4959 (confianza: 1.00)
+- 8285753775 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 993-0872 (confianza: 1.00)
+- 8285753779 (confianza: 1.00)
+- (269) 548-9004 (confianza: 1.00)
+- 401-965-5857 (confianza: 1.00)
+- (401) 527-4896 (confianza: 1.00)
+- 503-825-2469 (confianza: 1.00)
+- (408) 893-5247 (confianza: 1.00)
+- 603-328-1361 (confianza: 1.00)
+- 3108097736 (confianza: 1.00)
+- (818) 703-2829 (confianza: 1.00)
+- 1--858-735-4947 (confianza: 1.00)
+- (858) 775-4947 (confianza: 1.00)
+- 1-858-735-4947 (confianza: 1.00)
+- 866-400-6090 (confianza: 1.00)
+- 720-810-0089 (confianza: 1.00)
+- (510) 501-2368 (confianza: 1.00)
+- 5704392140 (confianza: 1.00)
+- (503) 407-6845 (confianza: 1.00)
+- 18008888288 (confianza: 1.00)
+- 5704390880 (confianza: 1.00)
+- (570) 439-2140 (confianza: 1.00)
+- 8883195999 (confianza: 1.00)
+- 805 259 5099 (confianza: 1.00)
+- (805) 689-2849 (confianza: 1.00)
+- 805 280 1415 (confianza: 1.00)
+- (805) 886-7388 (confianza: 1.00)
+- 8052801415 (confianza: 1.00)
+- 5034326885 (confianza: 1.00)
+- (971) 804-5906 (confianza: 1.00)
+
+Predicciones guardadas en: /home/juandi/Documents/TextractModel/Predictions/phone_predictions.csv

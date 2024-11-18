@@ -1,0 +1,1237 @@
+=== RESULTADOS DE PRUEBA DE EXTRACCIÓN DE TELÉFONOS ===
+
+Fecha y hora: 2024-11-17 12:22:43
+Archivo procesado: /home/juandi/Documents/Textract/textract_results/doc_AM_01_06_24 Emergency Contacts and Insurance Report_page_1.png.json
+
+Total de bounding boxes analizados: 211
+
+=== HEADERS ENCONTRADOS ===
+Header: 'Emergency Contact'
+Posición: left=0.359, top=0.166
+Header: 'Emergency Contact'
+Posición: left=0.495, top=0.165
+Header: 'Phone #s'
+Posición: left=0.526, top=0.177
+
+Total headers encontrados: 3
+
+=== NÚMEROS ENCONTRADOS ===
+
+Texto encontrado: 'January 6, 2024 to January 14, 2024'
+Posición: left=0.053, top=0.092
+
+Texto encontrado: 'Guide(s): Guillermo Knell (+51-979771365), Renzo Zeppilli (+51-988747961)'
+Posición: left=0.053, top=0.120
+
+Texto encontrado: '8285753779'
+Posición: left=0.522, top=0.210
+
+Texto encontrado: '(269) 290-4959'
+Posición: left=0.053, top=0.221
+
+Texto encontrado: '8285753775'
+Posición: left=0.522, top=0.221
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.637, top=0.232
+
+Texto encontrado: '8285753779'
+Posición: left=0.522, top=0.270
+
+Texto encontrado: '(269) 993-0872'
+Posición: left=0.053, top=0.276
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.287
+
+Texto encontrado: '8285753779'
+Posición: left=0.522, top=0.325
+
+Texto encontrado: '(269) 548-9004'
+Posición: left=0.053, top=0.331
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.637, top=0.342
+
+Texto encontrado: '401-965-5857'
+Posición: left=0.517, top=0.380
+
+Texto encontrado: '(401) 527-4896'
+Posición: left=0.053, top=0.386
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.396
+
+Texto encontrado: '503-825-2469'
+Posición: left=0.518, top=0.435
+
+Texto encontrado: '(408) 893-5247'
+Posición: left=0.053, top=0.441
+
+Texto encontrado: '603-328-1361'
+Posición: left=0.695, top=0.451
+
+Texto encontrado: '3108097736'
+Posición: left=0.522, top=0.489
+
+Texto encontrado: '(818) 703-2829'
+Posición: left=0.053, top=0.496
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.506
+
+Texto encontrado: '1--858-735-4947'
+Posición: left=0.510, top=0.533
+
+Texto encontrado: '(858) 775-4947'
+Posición: left=0.053, top=0.545
+
+Texto encontrado: '1-858-735-4947'
+Posición: left=0.512, top=0.544
+
+Texto encontrado: '866-400-6090'
+Posición: left=0.695, top=0.550
+
+Texto encontrado: '720-810-0089'
+Posición: left=0.517, top=0.588
+
+Texto encontrado: '(510) 501-2368'
+Posición: left=0.053, top=0.594
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.637, top=0.605
+
+Texto encontrado: '5704392140'
+Posición: left=0.522, top=0.637
+
+Texto encontrado: 'Q9C114W04876'
+Posición: left=0.687, top=0.637
+
+Texto encontrado: '(503) 407-6845'
+Posición: left=0.053, top=0.643
+
+Texto encontrado: '18008888288'
+Posición: left=0.696, top=0.648
+
+Texto encontrado: '5704390880'
+Posición: left=0.522, top=0.686
+
+Texto encontrado: '(570) 439-2140'
+Posición: left=0.053, top=0.693
+
+Texto encontrado: 'XEA911630751'
+Posición: left=0.690, top=0.692
+
+Texto encontrado: '8883195999'
+Posición: left=0.699, top=0.703
+
+Texto encontrado: '805 259 5099'
+Posición: left=0.521, top=0.736
+
+Texto encontrado: '(805) 689-2849'
+Posición: left=0.053, top=0.747
+
+Texto encontrado: '805 280 1415'
+Posición: left=0.518, top=0.747
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.758
+
+Texto encontrado: '805 5 2595099'
+Posición: left=0.520, top=0.791
+
+Texto encontrado: '(805) 886-7388'
+Posición: left=0.053, top=0.802
+
+Texto encontrado: '8052801415'
+Posición: left=0.522, top=0.802
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.813
+
+Texto encontrado: '5034326885'
+Posición: left=0.522, top=0.851
+
+Texto encontrado: '(971) 804-5906'
+Posición: left=0.053, top=0.857
+
+Texto encontrado: '+1-443-470-7200 or 855-291-4527'
+Posición: left=0.636, top=0.868
+
+Texto encontrado: '800-543-8917 303-449-3711'
+Posición: left=0.416, top=0.966
+
+Total números potenciales encontrados: 48
+
+=== PREDICCIONES ===
+
+Texto: January 6, 2024 to January 14, 2024
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: -0.073
+Predicción: Inválido
+Confianza: 0.043
+
+Texto: Guide(s): Guillermo Knell (+51-979771365), Renzo Zeppilli (+51-988747961)
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: -0.046
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.044
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (269) 290-4959
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.056
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8285753775
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.055
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.066
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.104
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (269) 993-0872
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.111
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.121
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.159
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (269) 548-9004
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.165
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.278
+Distancia Y: 0.176
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 401-965-5857
+Header relacionado: Emergency Contact
+Distancia X: 0.158
+Distancia Y: 0.214
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: (401) 527-4896
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.220
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.231
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 503-825-2469
+Header relacionado: Emergency Contact
+Distancia X: 0.159
+Distancia Y: 0.269
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: (408) 893-5247
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.275
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 603-328-1361
+Header relacionado: Emergency Contact
+Distancia X: 0.336
+Distancia Y: 0.286
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 3108097736
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.324
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (818) 703-2829
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.330
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.340
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 1--858-735-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.151
+Distancia Y: 0.367
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: (858) 775-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.379
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 1-858-735-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.153
+Distancia Y: 0.378
+Predicción: Inválido
+Confianza: 0.064
+
+Texto: 866-400-6090
+Header relacionado: Emergency Contact
+Distancia X: 0.335
+Distancia Y: 0.384
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 720-810-0089
+Header relacionado: Emergency Contact
+Distancia X: 0.158
+Distancia Y: 0.422
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: (510) 501-2368
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.428
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.278
+Distancia Y: 0.439
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5704392140
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.471
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: Q9C114W04876
+Header relacionado: Emergency Contact
+Distancia X: 0.328
+Distancia Y: 0.471
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: (503) 407-6845
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.477
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 18008888288
+Header relacionado: Emergency Contact
+Distancia X: 0.337
+Distancia Y: 0.483
+Predicción: Inválido
+Confianza: 0.035
+
+Texto: 5704390880
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.521
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (570) 439-2140
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.527
+Predicción: Válido
+Confianza: 0.955
+
+Texto: XEA911630751
+Header relacionado: Emergency Contact
+Distancia X: 0.331
+Distancia Y: 0.526
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: 8883195999
+Header relacionado: Emergency Contact
+Distancia X: 0.340
+Distancia Y: 0.538
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: 805 259 5099
+Header relacionado: Emergency Contact
+Distancia X: 0.162
+Distancia Y: 0.570
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: (805) 689-2849
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.582
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 805 280 1415
+Header relacionado: Emergency Contact
+Distancia X: 0.159
+Distancia Y: 0.581
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.592
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 805 5 2595099
+Header relacionado: Emergency Contact
+Distancia X: 0.161
+Distancia Y: 0.625
+Predicción: Inválido
+Confianza: 0.026
+
+Texto: (805) 886-7388
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.637
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8052801415
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.636
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.647
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5034326885
+Header relacionado: Emergency Contact
+Distancia X: 0.163
+Distancia Y: 0.685
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: (971) 804-5906
+Header relacionado: Emergency Contact
+Distancia X: 0.306
+Distancia Y: 0.692
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.277
+Distancia Y: 0.702
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 800-543-8917 303-449-3711
+Header relacionado: Emergency Contact
+Distancia X: 0.057
+Distancia Y: 0.800
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: January 6, 2024 to January 14, 2024
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: -0.073
+Predicción: Inválido
+Confianza: 0.043
+
+Texto: Guide(s): Guillermo Knell (+51-979771365), Renzo Zeppilli (+51-988747961)
+Header relacionado: Emergency Contact
+Distancia X: 0.441
+Distancia Y: -0.045
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.044
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 290-4959
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.056
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8285753775
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.056
+Predicción: Válido
+Confianza: 0.892
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.142
+Distancia Y: 0.067
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.105
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 993-0872
+Header relacionado: Emergency Contact
+Distancia X: 0.441
+Distancia Y: 0.111
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.142
+Distancia Y: 0.122
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.160
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 548-9004
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.166
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.142
+Distancia Y: 0.176
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 401-965-5857
+Header relacionado: Emergency Contact
+Distancia X: 0.022
+Distancia Y: 0.215
+Predicción: Válido
+Confianza: 0.889
+
+Texto: (401) 527-4896
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.221
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.141
+Distancia Y: 0.231
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 503-825-2469
+Header relacionado: Emergency Contact
+Distancia X: 0.023
+Distancia Y: 0.269
+Predicción: Válido
+Confianza: 0.889
+
+Texto: (408) 893-5247
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.276
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 603-328-1361
+Header relacionado: Emergency Contact
+Distancia X: 0.200
+Distancia Y: 0.286
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 3108097736
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.324
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (818) 703-2829
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.330
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.141
+Distancia Y: 0.341
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 1--858-735-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.015
+Distancia Y: 0.368
+Predicción: Inválido
+Confianza: 0.079
+
+Texto: (858) 775-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.441
+Distancia Y: 0.380
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 1-858-735-4947
+Header relacionado: Emergency Contact
+Distancia X: 0.018
+Distancia Y: 0.379
+Predicción: Inválido
+Confianza: 0.109
+
+Texto: 866-400-6090
+Header relacionado: Emergency Contact
+Distancia X: 0.200
+Distancia Y: 0.385
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 720-810-0089
+Header relacionado: Emergency Contact
+Distancia X: 0.023
+Distancia Y: 0.422
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: (510) 501-2368
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.429
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.142
+Distancia Y: 0.440
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5704392140
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.472
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: Q9C114W04876
+Header relacionado: Emergency Contact
+Distancia X: 0.192
+Distancia Y: 0.472
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: (503) 407-6845
+Header relacionado: Emergency Contact
+Distancia X: 0.441
+Distancia Y: 0.478
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 18008888288
+Header relacionado: Emergency Contact
+Distancia X: 0.201
+Distancia Y: 0.483
+Predicción: Inválido
+Confianza: 0.035
+
+Texto: 5704390880
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.521
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: (570) 439-2140
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.527
+Predicción: Válido
+Confianza: 0.955
+
+Texto: XEA911630751
+Header relacionado: Emergency Contact
+Distancia X: 0.195
+Distancia Y: 0.527
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: 8883195999
+Header relacionado: Emergency Contact
+Distancia X: 0.204
+Distancia Y: 0.538
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: 805 259 5099
+Header relacionado: Emergency Contact
+Distancia X: 0.026
+Distancia Y: 0.570
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: (805) 689-2849
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.582
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 805 280 1415
+Header relacionado: Emergency Contact
+Distancia X: 0.023
+Distancia Y: 0.582
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.141
+Distancia Y: 0.593
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 805 5 2595099
+Header relacionado: Emergency Contact
+Distancia X: 0.025
+Distancia Y: 0.625
+Predicción: Inválido
+Confianza: 0.125
+
+Texto: (805) 886-7388
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.637
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8052801415
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.637
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.141
+Distancia Y: 0.648
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5034326885
+Header relacionado: Emergency Contact
+Distancia X: 0.027
+Distancia Y: 0.686
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: (971) 804-5906
+Header relacionado: Emergency Contact
+Distancia X: 0.442
+Distancia Y: 0.692
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Emergency Contact
+Distancia X: 0.141
+Distancia Y: 0.703
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 800-543-8917 303-449-3711
+Header relacionado: Emergency Contact
+Distancia X: 0.078
+Distancia Y: 0.800
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: January 6, 2024 to January 14, 2024
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: -0.084
+Predicción: Inválido
+Confianza: 0.043
+
+Texto: Guide(s): Guillermo Knell (+51-979771365), Renzo Zeppilli (+51-988747961)
+Header relacionado: Phone #s
+Distancia X: 0.472
+Distancia Y: -0.057
+Predicción: Inválido
+Confianza: 0.007
+
+Texto: 8285753779
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.033
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 290-4959
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.045
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8285753775
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.044
+Predicción: Válido
+Confianza: 0.892
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.111
+Distancia Y: 0.055
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.093
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 993-0872
+Header relacionado: Phone #s
+Distancia X: 0.472
+Distancia Y: 0.099
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.111
+Distancia Y: 0.110
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 8285753779
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.148
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (269) 548-9004
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.154
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.111
+Distancia Y: 0.165
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 401-965-5857
+Header relacionado: Phone #s
+Distancia X: 0.009
+Distancia Y: 0.203
+Predicción: Válido
+Confianza: 0.889
+
+Texto: (401) 527-4896
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.209
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.220
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 503-825-2469
+Header relacionado: Phone #s
+Distancia X: 0.008
+Distancia Y: 0.258
+Predicción: Válido
+Confianza: 0.889
+
+Texto: (408) 893-5247
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.264
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 603-328-1361
+Header relacionado: Phone #s
+Distancia X: 0.169
+Distancia Y: 0.274
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 3108097736
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.312
+Predicción: Válido
+Confianza: 0.892
+
+Texto: (818) 703-2829
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.319
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.329
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 1--858-735-4947
+Header relacionado: Phone #s
+Distancia X: 0.016
+Distancia Y: 0.356
+Predicción: Inválido
+Confianza: 0.079
+
+Texto: (858) 775-4947
+Header relacionado: Phone #s
+Distancia X: 0.472
+Distancia Y: 0.368
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 1-858-735-4947
+Header relacionado: Phone #s
+Distancia X: 0.013
+Distancia Y: 0.367
+Predicción: Inválido
+Confianza: 0.109
+
+Texto: 866-400-6090
+Header relacionado: Phone #s
+Distancia X: 0.169
+Distancia Y: 0.373
+Predicción: Inválido
+Confianza: 0.034
+
+Texto: 720-810-0089
+Header relacionado: Phone #s
+Distancia X: 0.008
+Distancia Y: 0.411
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: (510) 501-2368
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.417
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.111
+Distancia Y: 0.428
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5704392140
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.460
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: Q9C114W04876
+Header relacionado: Phone #s
+Distancia X: 0.161
+Distancia Y: 0.460
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: (503) 407-6845
+Header relacionado: Phone #s
+Distancia X: 0.472
+Distancia Y: 0.466
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 18008888288
+Header relacionado: Phone #s
+Distancia X: 0.170
+Distancia Y: 0.471
+Predicción: Inválido
+Confianza: 0.035
+
+Texto: 5704390880
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.509
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: (570) 439-2140
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.516
+Predicción: Válido
+Confianza: 0.955
+
+Texto: XEA911630751
+Header relacionado: Phone #s
+Distancia X: 0.164
+Distancia Y: 0.515
+Predicción: Inválido
+Confianza: 0.029
+
+Texto: 8883195999
+Header relacionado: Phone #s
+Distancia X: 0.173
+Distancia Y: 0.526
+Predicción: Inválido
+Confianza: 0.036
+
+Texto: 805 259 5099
+Header relacionado: Phone #s
+Distancia X: 0.005
+Distancia Y: 0.559
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: (805) 689-2849
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.571
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 805 280 1415
+Header relacionado: Phone #s
+Distancia X: 0.008
+Distancia Y: 0.570
+Predicción: Inválido
+Confianza: 0.139
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.581
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 805 5 2595099
+Header relacionado: Phone #s
+Distancia X: 0.006
+Distancia Y: 0.614
+Predicción: Inválido
+Confianza: 0.125
+
+Texto: (805) 886-7388
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.626
+Predicción: Válido
+Confianza: 0.955
+
+Texto: 8052801415
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.625
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.636
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 5034326885
+Header relacionado: Phone #s
+Distancia X: 0.004
+Distancia Y: 0.674
+Predicción: Inválido
+Confianza: 0.142
+
+Texto: (971) 804-5906
+Header relacionado: Phone #s
+Distancia X: 0.473
+Distancia Y: 0.680
+Predicción: Válido
+Confianza: 0.955
+
+Texto: +1-443-470-7200 or 855-291-4527
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.691
+Predicción: Inválido
+Confianza: 0.000
+
+Texto: 800-543-8917 303-449-3711
+Header relacionado: Phone #s
+Distancia X: 0.110
+Distancia Y: 0.789
+Predicción: Inválido
+Confianza: 0.007
+
+=== RESUMEN FINAL ===
+Total de predicciones realizadas: 144
+Números identificados como válidos: 53
+
+Teléfonos válidos encontrados:
+- (269) 290-4959 (confianza: 0.955)
+- (269) 993-0872 (confianza: 0.955)
+- (269) 548-9004 (confianza: 0.955)
+- (401) 527-4896 (confianza: 0.955)
+- (408) 893-5247 (confianza: 0.955)
+- (818) 703-2829 (confianza: 0.955)
+- (858) 775-4947 (confianza: 0.955)
+- (510) 501-2368 (confianza: 0.955)
+- (503) 407-6845 (confianza: 0.955)
+- (570) 439-2140 (confianza: 0.955)
+- (805) 689-2849 (confianza: 0.955)
+- (805) 886-7388 (confianza: 0.955)
+- (971) 804-5906 (confianza: 0.955)
+- 8285753779 (confianza: 0.892)
+- (269) 290-4959 (confianza: 0.955)
+- 8285753775 (confianza: 0.892)
+- 8285753779 (confianza: 0.892)
+- (269) 993-0872 (confianza: 0.955)
+- 8285753779 (confianza: 0.892)
+- (269) 548-9004 (confianza: 0.955)
+- 401-965-5857 (confianza: 0.889)
+- (401) 527-4896 (confianza: 0.955)
+- 503-825-2469 (confianza: 0.889)
+- (408) 893-5247 (confianza: 0.955)
+- 3108097736 (confianza: 0.892)
+- (818) 703-2829 (confianza: 0.955)
+- (858) 775-4947 (confianza: 0.955)
+- (510) 501-2368 (confianza: 0.955)
+- (503) 407-6845 (confianza: 0.955)
+- (570) 439-2140 (confianza: 0.955)
+- (805) 689-2849 (confianza: 0.955)
+- (805) 886-7388 (confianza: 0.955)
+- (971) 804-5906 (confianza: 0.955)
+- 8285753779 (confianza: 0.892)
+- (269) 290-4959 (confianza: 0.955)
+- 8285753775 (confianza: 0.892)
+- 8285753779 (confianza: 0.892)
+- (269) 993-0872 (confianza: 0.955)
+- 8285753779 (confianza: 0.892)
+- (269) 548-9004 (confianza: 0.955)
+- 401-965-5857 (confianza: 0.889)
+- (401) 527-4896 (confianza: 0.955)
+- 503-825-2469 (confianza: 0.889)
+- (408) 893-5247 (confianza: 0.955)
+- 3108097736 (confianza: 0.892)
+- (818) 703-2829 (confianza: 0.955)
+- (858) 775-4947 (confianza: 0.955)
+- (510) 501-2368 (confianza: 0.955)
+- (503) 407-6845 (confianza: 0.955)
+- (570) 439-2140 (confianza: 0.955)
+- (805) 689-2849 (confianza: 0.955)
+- (805) 886-7388 (confianza: 0.955)
+- (971) 804-5906 (confianza: 0.955)
+
+Predicciones detalladas guardadas en: /home/juandi/Documents/TextractModel/Predictions/phone_predictions.csv
+
+=== FIN DEL REPORTE ===
